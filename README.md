@@ -18,7 +18,6 @@ Una aplicación web intuitiva y eficiente para gestionar citas médicas, desarro
 - [Uso](#-uso)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Contribución](#-contribución)
-- [Licencia](#-licencia)
 
 ## ✨ Características
 
