@@ -4,6 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+[Enlace Directo Al Proyecto](https://manejo-event-comp.vercel.app/)
+
 Una aplicación web intuitiva y eficiente para gestionar citas médicas, desarrollada con Vue.js.
 
 ![Ejemplo de uso](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNmOTExMzIwMzM5MTdiMjg5ZmM5YzFkM2NjMzk4ZWEwMjIxMzU3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPa2TdahY8LAAxy/giphy.gif)
@@ -36,7 +38,7 @@ Una aplicación web intuitiva y eficiente para gestionar citas médicas, desarro
 
 1. Clona este repositorio:
    ```
-   git clone https://github.com/tu-usuario/administrador-citas-medicas.git
+   git clone https://github.com/FideoKojima/ManejoEventComp.git
    ```
 2. Navega al directorio del proyecto:
    ```
@@ -91,10 +93,6 @@ Las contribuciones son bienvenidas. Por favor, sigue estos pasos:
 4. Push a la Branch (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
-
 ---
 
-Desarrollado con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
+Desarrollado con ❤️ por [Luis Suarez](https://github.com/FideoKojima/)
